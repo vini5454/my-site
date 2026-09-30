@@ -1,0 +1,15 @@
+.welcome-section {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.cards-section {
+    padding-top: 60px;
+    padding-bottom: 80px;
+}
+
+/* Настраиваем размер картинок в карточках, чтобы они были одинаковыми */
+.card-img-top {
+    height: 250px;
+    object-fit: cover; /* Картинка заполнит блок аккуратно и не сожмется */
+}
